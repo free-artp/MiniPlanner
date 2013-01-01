@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For SerialInput
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Planner		KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+Planner		KEYWORD2
+cycle		KEYWORD2
+schedule	KEYWORD2
+unschedule	KEYWORD2
+debug		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+FLAG_PERIODIC	LITERAL1
+FLAG_ONCE	LITERAL1
+MAX_PROCS	LITERAL1
